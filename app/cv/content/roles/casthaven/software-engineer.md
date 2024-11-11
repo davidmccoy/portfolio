@@ -1,0 +1,1 @@
+- Worked on an ecommerce SaaS application for local game stores sales, inventory management, and community development.
