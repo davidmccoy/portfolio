@@ -61,7 +61,7 @@ async function deploy() {
 
         console.log('✅ Deploy preparation complete!');
         console.log('\nNext steps:');
-        console.log('1. cd into your GitHub Pages repository');
+        console.log('1. cd ../davidmccoy.github.io');
         console.log('2. git add .');
         console.log('3. git commit -m "Update site"');
         console.log('4. git push');

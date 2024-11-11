@@ -26,7 +26,7 @@ const Personal = () => {
           <p className="italic">
             View the code on{' '}
             <a
-              href="https://github.com/davidmccoy/davidmccoy.github.io"
+              href="https://github.com/davidmccoy/portfolio"
               target="_blank"
               className="text-blue-600 hover:underline"
             >
