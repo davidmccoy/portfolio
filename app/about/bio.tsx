@@ -4,10 +4,10 @@ const text = (classes?: string) => {
   return (
     <p className={classes}>
       I&apos;m a software engineer with{' '}
-      <strong>over 10 years of experience</strong> in software development and
-      technical leadership. I have extensive experience with the both product
-      and software development lifecycles: from ideation, architecture, and
-      design to development, testing, deployment, performance, and security.
+      <strong>over 11 years of experience</strong> in software development and
+      technical leadership. I have extensive experience with product and
+      software development lifecycles: from ideation, architecture, and design
+      to development, testing, deployment, performance, and security.
     </p>
   );
 };
